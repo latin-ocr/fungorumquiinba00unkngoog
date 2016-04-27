@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungorumquiinba00unkngoog_0133.png"; bbox 0 0 5234 6625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 639 1058 3929 5015">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 639 1058 3929 5015">
+     <span class='ocr_line' id='line_1_1' title="bbox 639 1058 3929 5015; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 639 1058 3929 5015; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 3176 5152 3969 5267">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 3074 5152 3969 5267">
+     <span class='ocr_line' id='line_1_2' title="bbox 3176 5152 3969 5267; baseline -0.003 -18.342"><span class='ocrx_word' id='word_1_2' title='bbox 3176 5152 3324 5247; x_wconf 41' lang='lat' dir='ltr'><em>¹0AE</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 3343 5183 3619 5267; x_wconf 57' lang='lat' dir='ltr'><em>Nfih‘yd</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 3640 5214 3721 5247; x_wconf 72' lang='lat' dir='ltr'><em>ee.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 3746 5191 3969 5249; x_wconf 67' lang='lat' dir='ltr'><em>Nema.</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

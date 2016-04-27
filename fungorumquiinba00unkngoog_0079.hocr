@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./fungorumquiinba00unkngoog_0079.png"; bbox 0 0 5234 6625; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 566 709 4181 5246">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 566 709 4181 5246">
+     <span class='ocr_line' id='line_1_1' title="bbox 566 709 4181 5246"><span class='ocrx_word' id='word_1_1' title='bbox 566 709 4181 5246; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 672 5218 1218 5292">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 672 5218 1218 5292">
+     <span class='ocr_line' id='line_1_2' title="bbox 672 5218 1218 5292; baseline -0.004 -15"><span class='ocrx_word' id='word_1_2' title='bbox 672 5218 1218 5292; x_wconf 60' lang='lat' dir='ltr'><em>St.lddpbnx.2n.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2084 5439 2816 5570">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2084 5439 2816 5570">
+     <span class='ocr_line' id='line_1_3' title="bbox 2084 5439 2816 5570; baseline 0.005 -50"><span class='ocrx_word' id='word_1_3' title='bbox 2084 5439 2322 5570; x_wconf 42' lang='lat' dir='ltr'><em>„ffaflt</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 2339 5484 2453 5519; x_wconf 66' lang='lat' dir='ltr'><em>cm</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2488 5486 2572 5520; x_wconf 58' lang='lat' dir='ltr'><em>dv</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2589 5487 2644 5521; x_wconf 60' lang='lat' dir='ltr'><em>Lx</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 2657 5453 2816 5525; x_wconf 42' lang='lat' dir='ltr'><em>&#39;elsua</em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
